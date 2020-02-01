@@ -9,4 +9,6 @@ Solutions of different problems related to "dynamic programming"
 
 <b>levenstein-distance</b> finds the Levenstein distance between two strings with <i>O(n * m)</i> difficulty and <i>O(min(n, m))</i> memory usage
 
-<b>calculator</b> a problem of reaching the given number from 1 with multiplication by 3, multyplication by 2 and addition 1  
+<b>calculator</b> a problem of reaching the given number from 1 with multiplication by 3, multiplication by 2 and addition 1  
+
+<b>stairs</b> a problem of collecting max value of coins that are lying on the stairs
